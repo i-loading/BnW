@@ -374,7 +374,12 @@ footer {
    text-align: center;
    padding-bottom: 55px;
 }
-
+.socials {
+  padding-top: 20px;
+}
+.socials a+a {
+  margin-left: 20px;
+}
 
 /* Media Queries */
 
